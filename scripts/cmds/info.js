@@ -53,13 +53,13 @@ module.exports = {
 
 ┏━━━━━━━━━━━━━━━━┓
 ┃ 🧑 Admin Info
-┃ ╰➤ Name: ${authorName}
-┃ ╰➤ Facebook: ${authorFB}
-┃ ╰➤ Instagram: ${authorInsta}
+┃ ╰➤ Name: ${RISHI}
+┃ ╰➤ Facebook: ${BOSS}
+┃ ╰➤ Instagram: ${NAI}
 ┃ ╰➤ Status: ${status}
 ┃
 ┃ 🤖 Bot Details
-┃ ╰➤ Name: ${botName}
+┃ ╰➤ Name: ${HINTA}
 ┃ ╰➤ Time: ${time}
 ┃ ╰➤ Uptime: ${uptimeString}
 ┗━━━━━━━━━━━━━━━━┛
