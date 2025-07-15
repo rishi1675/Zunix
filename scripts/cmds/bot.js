@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-const prefixes = ["bby", "janu", "babe", "bot", "sona", "bbu", "jaan"];
+const prefixes = ["bby", "janu", "babe", "bot", "sona", "bbu", "jaan","rishi"];
 
 module.exports = {
   config: {
